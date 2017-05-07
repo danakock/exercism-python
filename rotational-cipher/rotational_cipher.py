@@ -21,5 +21,3 @@ def rotate(message, key):
             else:
                 cipher += symbol
     return cipher
-
-rotate("The quick brown fox jumps over the lazy dog.", 13)
