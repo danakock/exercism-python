@@ -45,8 +45,8 @@
       <file leaf-file-name="rotational_cipher.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rotational_cipher.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="45">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -320,18 +320,6 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_rotational_cipher_test - 2017.05.06 at 23h 02m 59s.xml">
-      <configuration name="Unittests in rotational_cipher_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_rotational_cipher_test - 2017.05.06 at 23h 13m 07s.xml">
-      <configuration name="Unittests in rotational_cipher_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_rotational_cipher_test - 2017.05.06 at 23h 13m 22s.xml">
-      <configuration name="Unittests in rotational_cipher_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_rotational_cipher_test - 2017.05.06 at 23h 23m 24s.xml">
-      <configuration name="Unittests in rotational_cipher_test" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_rotational_cipher_test - 2017.05.06 at 23h 23m 40s.xml">
       <configuration name="Unittests in rotational_cipher_test" configurationId="tests" />
     </history-entry>
@@ -348,6 +336,18 @@
       <configuration name="Unittests in rotational_cipher_test" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_rotational_cipher_test - 2017.05.06 at 23h 45m 54s.xml">
+      <configuration name="Unittests in rotational_cipher_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_rotational_cipher_test - 2017.05.07 at 20h 48m 03s.xml">
+      <configuration name="Unittests in rotational_cipher_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_rotational_cipher_test - 2017.05.07 at 20h 48m 18s.xml">
+      <configuration name="Unittests in rotational_cipher_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_rotational_cipher_test - 2017.05.07 at 20h 48m 40s.xml">
+      <configuration name="Unittests in rotational_cipher_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_rotational_cipher_test - 2017.05.07 at 22h 36m 06s.xml">
       <configuration name="Unittests in rotational_cipher_test" configurationId="tests" />
     </history-entry>
   </component>
@@ -413,10 +413,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/flasky/flasky/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rotational_cipher.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="45">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
           <folding />
         </state>
       </provider>
